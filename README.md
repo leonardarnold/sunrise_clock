@@ -1,6 +1,6 @@
 # Sunrise Clock
 
-##Features
+## Features
 * 24 hour format (AM/PM)
 * Dark/Light theme
 * Icons for weather condition
@@ -16,16 +16,22 @@ Not a feature but still: No external packages used ... : - )
 
 
 ## Gifs
-###Light
+
+### Light
 <img src='sunrise_clock/sunrise_clock_light.gif' width='350'>
-###Dark
+
+### Dark
 <img src='sunrise_clock/sunrise_clock_dark.gif' width='350'>
+
 ## Screenshots
-###Light
+
+### Light
 <img src='sunrise_clock/sunrise_screenshot_light.png' width='350'>
-###Dark
+
+### Dark
 <img src='sunrise_clock/sunrise_screenshot_dark.png' width='350'>
-###Semantics
+
+### Semantics
 <img src='sunrise_clock/sunrise_screenshot_semantics.png' width='350'>
 
 ## Sunrise Clock  Licensing
